@@ -20,7 +20,7 @@ export default function Footer() {
               Transformando ideias em soluções digitais robustas. Especialistas em desenvolvimento de sistemas e infraestrutura para impulsionar o seu negócio.
             </p>
           </div>
-          
+
           <div>
             <h3 className="text-white font-semibold mb-6">Links Rápidos</h3>
             <ul className="space-y-3">
@@ -40,16 +40,16 @@ export default function Footer() {
               </li>
               <li className="flex items-start gap-3 text-slate-400">
                 <Phone className="w-5 h-5 text-zenit[#38bdf8] shrink-0" />
-                <span>+55 (11) 99999-9999</span>
+                <span>+55 (14) 98181-6764</span>
               </li>
               <li className="flex items-start gap-3 text-slate-400">
                 <MapPin className="w-5 h-5 text-zenit[#38bdf8] shrink-0" />
-                <span>São Paulo, SP - Brasil</span>
+                <span>Aemr, SP - Brasil</span>
               </li>
             </ul>
           </div>
         </div>
-        
+
         <div className="pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-slate-500 text-sm">
           <p>&copy; {new Date().getFullYear()} Zenit Tech. Todos os direitos reservados.</p>
           <div className="flex gap-6">
